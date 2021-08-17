@@ -751,7 +751,7 @@ hr {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 650px;
+  min-height: 800px;
   position: relative;
   overflow: hidden;
   padding: 180px 0 80px;
@@ -759,9 +759,9 @@ hr {
 
 #hero-area .contents .head-title {
   color: #222222;
-  font-size: 42px;
+  font-size: 30px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 35px;
   margin-bottom: 10px;
 }
 
@@ -1413,4 +1413,7 @@ textarea {
 
 .social-icon .google:hover {
   background: #CE332A;
+}
+.marginbtn{
+  margin-bottom: 8px;
 }
